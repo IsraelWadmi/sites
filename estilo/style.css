@@ -7,6 +7,11 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
+    background-position: center center;
+    background-image: url(imagens/wallpaper003.jpg);
+    background-repeat: repeat-y;
+    width: auto;
+    height: 98vh;
 }
 
 header {
@@ -25,18 +30,11 @@ p{
 }
 
 main p {
-    line-height: 1.7em;
+   line-height: 1.7em;
 }
-
-div{
-    background-image: url(imagens/wallpaper003.jpg);
-    width: auto;
-    height: 200px;
-}
-
-
 
 .caixa2 > p {
+    margin-top: 200px;
     width: 700px;
 }
 
