@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: #fac3cc;
+    text-align: center;
+}
+
+main {
+    background-color: rgb(127, 248, 248);
+    
+    
+}
+
+p{
+    text-align: justify;
+}
+
+main p {
+    line-height: 1.7em;
+}
+
+div{
+    background-image: url(imagens/wallpaper003.jpg);
+    width: auto;
+    height: 200px;
+}
+
+
+
+.caixa2 > p {
+    width: 700px;
+}
+
+img {
+    display: inline-block;
+}
+
+.caixa3 {
+    margin-top: 300px;
+}
